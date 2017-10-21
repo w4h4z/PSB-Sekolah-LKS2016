@@ -1,0 +1,17 @@
+D:\New folder (2)\2016\2016\bin\Debug\2016.exe.config
+D:\New folder (2)\2016\2016\bin\Debug\2016.exe
+D:\New folder (2)\2016\2016\bin\Debug\2016.pdb
+D:\New folder (2)\2016\2016\bin\Debug\2016.xml
+D:\New folder (2)\2016\2016\obj\Debug\_2016.Login_Frm.resources
+D:\New folder (2)\2016\2016\obj\Debug\_2016.Main_Frm.resources
+D:\New folder (2)\2016\2016\obj\Debug\_2016.Resources.resources
+D:\New folder (2)\2016\2016\obj\Debug\_2016.Registration_Confirmation.resources
+D:\New folder (2)\2016\2016\obj\Debug\_2016.Staff_Nav.resources
+D:\New folder (2)\2016\2016\obj\Debug\_2016.Student_Nav.resources
+D:\New folder (2)\2016\2016\obj\Debug\_2016.Teacher_Nav.resources
+D:\New folder (2)\2016\2016\obj\Debug\_2016.Test_Result_Graphic.resources
+D:\New folder (2)\2016\2016\obj\Debug\2016.vbproj.GenerateResource.Cache
+D:\New folder (2)\2016\2016\obj\Debug\2016.exe
+D:\New folder (2)\2016\2016\obj\Debug\2016.xml
+D:\New folder (2)\2016\2016\obj\Debug\2016.pdb
+D:\New folder (2)\2016\2016\obj\Debug\2016.vbprojResolveAssemblyReference.cache
