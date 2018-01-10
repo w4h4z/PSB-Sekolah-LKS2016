@@ -15,3 +15,7 @@ D:\New folder (2)\2016\2016\obj\Debug\2016.exe
 D:\New folder (2)\2016\2016\obj\Debug\2016.xml
 D:\New folder (2)\2016\2016\obj\Debug\2016.pdb
 D:\New folder (2)\2016\2016\obj\Debug\2016.vbprojResolveAssemblyReference.cache
+D:\SMK TELKOM MLG\LKS\FINAL PROJECT\14 (2016 - FINAL)\2016\2016\bin\Debug\2016.exe.config
+D:\SMK TELKOM MLG\LKS\FINAL PROJECT\14 (2016 - FINAL)\2016\2016\obj\Debug\2016.exe
+D:\SMK TELKOM MLG\LKS\FINAL PROJECT\14 (2016 - FINAL)\2016\2016\obj\Debug\2016.xml
+D:\SMK TELKOM MLG\LKS\FINAL PROJECT\14 (2016 - FINAL)\2016\2016\obj\Debug\2016.pdb
